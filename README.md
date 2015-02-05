@@ -1,4 +1,4 @@
-python
-======
+assistant
+=========
 
-Repo of python learning exercises.
+An attempt to make an electric friend using python and a Raspberry Pi. 
