@@ -1,0 +1,5 @@
+# Example config.txt for stock functionality
+# List NYSE stock symbols below
+ABCDE
+BCD
+EFG
